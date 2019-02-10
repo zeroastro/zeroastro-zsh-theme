@@ -1,6 +1,6 @@
 # Zeroastro ZSH Theme
 
-Simple theme for Oh My ZSH.
+Simple Oh My ZSH Theme for **Dark Backgrounds**
 
 ![Zeroastro ZSH Theme](https://github.com/zeroastro/zeroastro-zsh-theme/raw/master/zeroastro-zsh-theme.png)
 
